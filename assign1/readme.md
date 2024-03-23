@@ -4,7 +4,7 @@
 2.Shahryar 21k3411
 3.Sajjad Ali 21k4560
 ## Output Screenshots
-//-- Attached on work file uploaded on gcr --//
+//-- Attached on word file uploaded on gcr --//
 ## Results and Analysis
  1. Sequential Matrix-Vector Multiplication:
 - Execution Times: The execution times will vary depending on the input size. For smaller input sizes, the execution time will be relatively low, but it will increase as the input size grows.
